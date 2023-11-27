@@ -11,9 +11,6 @@ namespace BasicApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Welcome To GitHub!! And One more Modification");
-            Console.WriteLine("Hello Welcome To GitHub!! And One more Modification");
-            Console.WriteLine("Hello Welcome To GitHub!! And One more Modification");
-
             Console.ReadLine();
         }
     }
